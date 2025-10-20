@@ -1,0 +1,13 @@
+/log/*
+/tmp/*
+#/db/*.sqlite3
+#/db/*.sqlite3-journal
+/node_modules
+/yarn-error.log
+.byebug_history
+/public/packs
+/public/packs-test
+/storage/*
+!/storage/.keep
+/config/master.key
+
